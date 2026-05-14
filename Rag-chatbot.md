@@ -651,23 +651,3 @@ javascript
 
 ---
 
-# 📢 LinkedIn Post
-
-🚀 Built a Production-Ready RAG (Retrieval-Augmented Generation) Chatbot for E-Commerce using:
-
-✅ LangChain
-✅ OpenAI GPT-4o
-✅ Pinecone Vector Database
-✅ Node.js + Express
-✅ Similarity Search
-✅ Embeddings + Retrieval
-
-The chatbot answers using real business/product data instead of hallucinating.
-
-Features:
-🛒 Product Recommendation
-📚 Knowledge Base Search
-💬 AI Customer Support
-⚡ Fast Semantic Search
-
-#AI #GenAI #RAG #LangChain #NodeJS #OpenAI #JavaScript #LLM #AIEngineering
